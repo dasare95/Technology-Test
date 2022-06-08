@@ -14,7 +14,7 @@ API Keys referenced from the .env file created
 route for store method created with request and response parameter
 includes library to read items file created
 
-index.esj includes Tshirts, cart-total, checkout and associated images
+index.html includes Tshirts, cart-total, checkout and associated images
 checkout.html includes iframe for payment, billing address input and associated images 
 stylesheets 
 

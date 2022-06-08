@@ -1,0 +1,94 @@
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Checkout</title>
+      <link rel="stylesheet" href="normalize.css" />
+      <link rel="stylesheet" href="checkout.css" />
+      
+    </head>
+
+  <body> 
+   
+    <img class="Logo" src="C:\Users\D.A\Desktop\Checkout Specialist Support Test 2\img\Logo.PNG">
+    <a href="index.html">basket</a>
+    <nav>
+      <ul>
+    </ul>    
+    </nav>
+    <form
+      id="payment-form"
+      method="POST"
+      action="https://merchant.com/charge-card"
+    >
+     
+<h2 class="title">Billing Address</h2>
+
+  <div class="inputBox">
+    <span>Full Name :</span>
+    <input type="text" placeholder="Derek Asare">
+  </div>
+
+  <div class="inputBox">
+    <span>Email :</span>
+    <input type="text" placeholder="derek@hotmail.co.uk">
+  </div>
+
+  <div class="inputBox">
+    <span>Address :</span>
+    <input type="text" placeholder="Shepherdess Walk">
+  </div>
+
+  <div class="inputBox">
+    <span>City :</span>
+    <input type="text" placeholder="London">
+  </div>
+
+  <div class="inputBox">
+    <span>Postcode :</span>
+    <input type="text" placeholder="N1 0DR">
+</div>
+   
+
+<h2 class="title">Payment</h2>
+
+<div class="inputBox">
+  <span>Cards Accepted :</span>
+  <div><img class="Logo" src="C:\Users\D.A\Desktop\Checkout Specialist Support Test 2\img\cards.PNG" > </div>
+</div>
+
+  <div class="inputBox">
+    <span>Name on card :</span>
+    <input type="text" placeholder=" Mr Derek Asare">
+  </div>
+
+  <div class="inputBox">
+    <span>Address :</span>
+    <input type="text" placeholder="Shepherdess Walk">
+  </div>
+
+  <div class="inputBox">
+    <span>City :</span>
+    <input type="text" placeholder="London">
+  </div>
+
+  <div class="inputBox">
+    <span>Postcode :</span>
+    <input type="text" placeholder="N1 0DR">
+
+</div>
+      <div class="one-liner">
+        <div class="card-frame"></div>
+        <button id="pay-button" disabled>
+          PAY GBP 3000
+        </button>
+      </div>
+      <p class="error-message"></p>
+      <p class="success-payment-message"></p>
+    </form>
+
+    <script src="https://cdn.checkout.com/js/framesv2.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

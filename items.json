@@ -1,0 +1,65 @@
+{
+"TShirt": [
+    {
+        "id": 1,
+        "name": "Pink Checkout.com T-Shirt",
+        "price": 2344,
+        "imgName": "pinktshirt.PNG"
+    },
+
+    {
+          "id": 2,
+          "name": "Green Checkout.com T-Shirt",
+          "price": 2344,
+          "imgName": "greentshirt.PNG"
+        },
+    {
+           "id": 3,
+           "name": "Orange Checkout.com T-Shirt",
+           "price": 2344,
+           "imgName": "orangetshirt.PNG"
+        },
+
+    {
+            "id": 4,
+            "name": "Blue Checkout.com T-Shirt",
+            "price": 2344,
+            "imgName": "bluetshirt.PNG"
+        },
+        
+    {
+              "id": 5,
+              "name": "Purple Checkout.com T-Shirt",
+              "price": 2344,
+              "imgName": "purpletshirt.PNG"
+         },
+
+    {
+               "id": 6, 
+               "name": "Yellow Checkout.com T-Shirt",
+               "price": 2344,
+               "imgName": "yellowtshirt.PNG"
+        },
+
+    {
+                "id": 7,
+                "name": "Grey Checkout.com T-Shirt",
+                "price": 2344,
+                "imgName": "greytshirt.PNG"
+        },
+
+    {
+                "id": 8,
+                "name": "Black Checkout.com T-Shirt",
+                "price": 2344,
+                "imgName": "blacktshirt.PNG"
+        },
+    {
+                "id": 9,
+                "name": "Red Checkout.com T-Shirt",
+                "price": 2344,
+                "imgName": "redtshirt.PNG"
+        }
+
+          ]
+}

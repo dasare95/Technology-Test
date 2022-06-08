@@ -12,10 +12,14 @@ Can make changes dynamically using this.
 server.js 
 API Keys referenced from the .env file created
 route for store method created with request and response parameter
-includes library to read items file created
+includes library to read the items file created
 
 index.html includes Tshirts, cart-total, checkout and associated images
 checkout.html includes iframe for payment, billing address input and associated images 
-stylesheets 
+stylesheets.
 
+Iframe provided token required for processing transaction generated when valid card details are inserted
 app.js, script.js facilitates dynamic behaviour on webpages and effects
+
+
+Unfortunately I was unable to complete this task due to extreme time constraints relating to work  
